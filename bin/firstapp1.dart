@@ -36,8 +36,9 @@ void main() {
       print("sory");
   }
 
-  // List student = [1, 2, 3, 4, 5, 6];
-  // student.add(10);
-  // student.insert(7, 9);
-  // print(student);
+  List student = [1, 2, 3, 4, 5, 6];
+  student.add(10);
+  student.insert(7, 9);
+  print(student);
+  
 }
